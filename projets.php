@@ -2,7 +2,7 @@
 // Commencer par l'appel du controller
 // require(controllers/...)
 
-define("PAGE_TITLE", "Accueil");
+define("PAGE_TITLE", "Projets");
 ?>
 <?php include("./assets/inc/head.php"); ?>
 <?php include("./assets/inc/header.php"); ?>
